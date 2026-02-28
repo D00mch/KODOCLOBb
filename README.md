@@ -18,7 +18,7 @@
 - [RxJava][2]
 - [Java примитивы][3]
 
-[1]: https://habr.com/ru/articles/1002744/ 
+[1]: https://habr.com/ru/articles/1003246
 [2]: examples/рх_жава.md 
 [3]: examples/жава_примитивы.md 
 [4]: categories/ГИТ.md
